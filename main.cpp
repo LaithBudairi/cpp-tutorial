@@ -2,6 +2,7 @@
 #include <conio.h>
 #include <string>
 #include <cmath>
+#include "add/test.h"
 using namespace std;
 
 void myFunction();
@@ -10,6 +11,9 @@ void fun(short arr[]) {
     std::cout << "Size of array pointer is : " << sizeof(arr) << std::endl;
 }
 
+int add(int a , int b) {
+    return a+b;
+}
 
 class Test {
     int x;
@@ -18,11 +22,13 @@ class Test {
 };
 
 int main() {
+    cout << "addd(1,2,3)= " << addd(1, 2, 3) << endl;
     cout << "Hello, World!" << endl; // endl inserts new line or just use \n
     float x = -2.0;
     char y = 'a';
     cout << "x is: " << x << endl;
     cout << y << endl;
+
 
     // user input
 //    cout << "Type a number: ";
@@ -107,6 +113,18 @@ int main() {
                       "Ronan"};
 
     cout << names[0] << endl;
+
+    // reference variables (must be initialized at declaration time or throws a compile-time error)
+    int a = 99;
+    int &ref = a;
+
+    cout << "ref variable ref is: " << ref << '\n';
+
+    // function pointer
+    int(*funcptr)(int, int);
+    funcptr = add;
+    cout << "sum from function add with function pointer: " << funcptr(3, 3) << '\n';
+
     return 0;
 }
 

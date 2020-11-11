@@ -67,10 +67,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\LaithB\CLionProjects\cpp_tutorial
+CMAKE_SOURCE_DIR = C:\Users\LaithB\CLionProjects\cpp-tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -142,6 +142,33 @@ cpp_tutorial/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/build
 .PHONY : cpp_tutorial/fast
 
+add/test.obj: add/test.cpp.obj
+
+.PHONY : add/test.obj
+
+# target to build an object file
+add/test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/add/test.cpp.obj
+.PHONY : add/test.cpp.obj
+
+add/test.i: add/test.cpp.i
+
+.PHONY : add/test.i
+
+# target to preprocess a source file
+add/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/add/test.cpp.i
+.PHONY : add/test.cpp.i
+
+add/test.s: add/test.cpp.s
+
+.PHONY : add/test.s
+
+# target to generate assembly for a file
+add/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/add/test.cpp.s
+.PHONY : add/test.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +205,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_tutorial
+	@echo ... add/test.obj
+	@echo ... add/test.i
+	@echo ... add/test.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

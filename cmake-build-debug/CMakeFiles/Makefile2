@@ -63,10 +63,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\LaithB\CLionProjects\cpp_tutorial
+CMAKE_SOURCE_DIR = C:\Users\LaithB\CLionProjects\cpp-tutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -93,14 +93,14 @@ clean: CMakeFiles/cpp_tutorial.dir/clean
 CMakeFiles/cpp_tutorial.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target cpp_tutorial"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target cpp_tutorial"
 .PHONY : CMakeFiles/cpp_tutorial.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cpp_tutorial.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cpp_tutorial.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp_tutorial\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/cpp_tutorial.dir/rule
 
 # Convenience name for target.

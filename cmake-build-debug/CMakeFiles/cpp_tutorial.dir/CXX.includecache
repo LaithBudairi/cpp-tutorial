@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/LaithB/CLionProjects/cpp_tutorial/main.cpp
+C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.h
+
+C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp
 iostream
 -
 conio.h
@@ -15,4 +17,6 @@ string
 -
 cmath
 -
+add/test.h
+C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.h
 

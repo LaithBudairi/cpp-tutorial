@@ -3,4 +3,4 @@ project(cpp_tutorial)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cpp_tutorial main.cpp input/UserInput.h)
+add_executable(cpp_tutorial main.cpp add/test.h add/test.cpp)
