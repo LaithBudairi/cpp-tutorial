@@ -89,6 +89,36 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/mymain.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/arrays.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/functions.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/mymain.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/pointers.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/variables.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

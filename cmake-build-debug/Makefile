@@ -196,6 +196,141 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mainalternatives/cppfiles/arrays.obj: mainalternatives/cppfiles/arrays.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/arrays.obj
+
+# target to build an object file
+mainalternatives/cppfiles/arrays.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj
+.PHONY : mainalternatives/cppfiles/arrays.cpp.obj
+
+mainalternatives/cppfiles/arrays.i: mainalternatives/cppfiles/arrays.cpp.i
+
+.PHONY : mainalternatives/cppfiles/arrays.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/arrays.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.i
+.PHONY : mainalternatives/cppfiles/arrays.cpp.i
+
+mainalternatives/cppfiles/arrays.s: mainalternatives/cppfiles/arrays.cpp.s
+
+.PHONY : mainalternatives/cppfiles/arrays.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/arrays.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.s
+.PHONY : mainalternatives/cppfiles/arrays.cpp.s
+
+mainalternatives/cppfiles/functions.obj: mainalternatives/cppfiles/functions.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/functions.obj
+
+# target to build an object file
+mainalternatives/cppfiles/functions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj
+.PHONY : mainalternatives/cppfiles/functions.cpp.obj
+
+mainalternatives/cppfiles/functions.i: mainalternatives/cppfiles/functions.cpp.i
+
+.PHONY : mainalternatives/cppfiles/functions.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/functions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.i
+.PHONY : mainalternatives/cppfiles/functions.cpp.i
+
+mainalternatives/cppfiles/functions.s: mainalternatives/cppfiles/functions.cpp.s
+
+.PHONY : mainalternatives/cppfiles/functions.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/functions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.s
+.PHONY : mainalternatives/cppfiles/functions.cpp.s
+
+mainalternatives/cppfiles/mymain.obj: mainalternatives/cppfiles/mymain.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/mymain.obj
+
+# target to build an object file
+mainalternatives/cppfiles/mymain.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj
+.PHONY : mainalternatives/cppfiles/mymain.cpp.obj
+
+mainalternatives/cppfiles/mymain.i: mainalternatives/cppfiles/mymain.cpp.i
+
+.PHONY : mainalternatives/cppfiles/mymain.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/mymain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.i
+.PHONY : mainalternatives/cppfiles/mymain.cpp.i
+
+mainalternatives/cppfiles/mymain.s: mainalternatives/cppfiles/mymain.cpp.s
+
+.PHONY : mainalternatives/cppfiles/mymain.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/mymain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.s
+.PHONY : mainalternatives/cppfiles/mymain.cpp.s
+
+mainalternatives/cppfiles/pointers.obj: mainalternatives/cppfiles/pointers.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/pointers.obj
+
+# target to build an object file
+mainalternatives/cppfiles/pointers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj
+.PHONY : mainalternatives/cppfiles/pointers.cpp.obj
+
+mainalternatives/cppfiles/pointers.i: mainalternatives/cppfiles/pointers.cpp.i
+
+.PHONY : mainalternatives/cppfiles/pointers.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/pointers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.i
+.PHONY : mainalternatives/cppfiles/pointers.cpp.i
+
+mainalternatives/cppfiles/pointers.s: mainalternatives/cppfiles/pointers.cpp.s
+
+.PHONY : mainalternatives/cppfiles/pointers.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/pointers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.s
+.PHONY : mainalternatives/cppfiles/pointers.cpp.s
+
+mainalternatives/cppfiles/variables.obj: mainalternatives/cppfiles/variables.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/variables.obj
+
+# target to build an object file
+mainalternatives/cppfiles/variables.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj
+.PHONY : mainalternatives/cppfiles/variables.cpp.obj
+
+mainalternatives/cppfiles/variables.i: mainalternatives/cppfiles/variables.cpp.i
+
+.PHONY : mainalternatives/cppfiles/variables.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/variables.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.i
+.PHONY : mainalternatives/cppfiles/variables.cpp.i
+
+mainalternatives/cppfiles/variables.s: mainalternatives/cppfiles/variables.cpp.s
+
+.PHONY : mainalternatives/cppfiles/variables.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/variables.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.s
+.PHONY : mainalternatives/cppfiles/variables.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -211,6 +346,21 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... mainalternatives/cppfiles/arrays.obj
+	@echo ... mainalternatives/cppfiles/arrays.i
+	@echo ... mainalternatives/cppfiles/arrays.s
+	@echo ... mainalternatives/cppfiles/functions.obj
+	@echo ... mainalternatives/cppfiles/functions.i
+	@echo ... mainalternatives/cppfiles/functions.s
+	@echo ... mainalternatives/cppfiles/mymain.obj
+	@echo ... mainalternatives/cppfiles/mymain.i
+	@echo ... mainalternatives/cppfiles/mymain.s
+	@echo ... mainalternatives/cppfiles/pointers.obj
+	@echo ... mainalternatives/cppfiles/pointers.i
+	@echo ... mainalternatives/cppfiles/pointers.s
+	@echo ... mainalternatives/cppfiles/variables.obj
+	@echo ... mainalternatives/cppfiles/variables.i
+	@echo ... mainalternatives/cppfiles/variables.s
 .PHONY : help
 
 

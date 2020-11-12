@@ -6,17 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.h
-
-C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp
+C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp
+cstdio
+-
 iostream
 -
-conio.h
--
-string
--
-cmath
--
-add/test.h
-C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.h
 
