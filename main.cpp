@@ -8,6 +8,8 @@
 #include "mainalternatives/headers/arrays.h"
 #include "mainalternatives/headers/pointers.h"
 #include "mainalternatives/headers/functions.h"
+#include "mainalternatives/headers/oop.h"
+
 using namespace std;
 
 int main() {
@@ -22,8 +24,11 @@ int main() {
     // pointers practice
     //pointers();
 
-    //functions practice
-    functions();
+    // functions practice
+    //functions();
+
+    // oop practice
+    oop();
 
     return 0;
 }

@@ -9,6 +9,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/mymain.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Animal.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Lion.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Student.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj"
   )

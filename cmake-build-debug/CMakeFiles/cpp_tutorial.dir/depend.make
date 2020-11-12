@@ -8,6 +8,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/arrays.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/functions.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/mymain.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/oop.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/variables.h
 
@@ -17,6 +18,21 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj: ../main
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../add/test.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../mainalternatives/cppfiles/mymain.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/cppfiles/oop.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/headers/oop/Animal.h
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/headers/oop/Lion.h
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/headers/oop/Student.h
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj: ../mainalternatives/cppfiles/oop/Animal.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj: ../mainalternatives/headers/oop/Animal.h
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj: ../mainalternatives/cppfiles/oop/Lion.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj: ../mainalternatives/headers/oop/Animal.h
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj: ../mainalternatives/headers/oop/Lion.h
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../mainalternatives/cppfiles/oop/Student.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../mainalternatives/headers/oop/Student.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj: ../mainalternatives/cppfiles/pointers.cpp
 

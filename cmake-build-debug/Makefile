@@ -277,6 +277,114 @@ mainalternatives/cppfiles/mymain.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.s
 .PHONY : mainalternatives/cppfiles/mymain.cpp.s
 
+mainalternatives/cppfiles/oop.obj: mainalternatives/cppfiles/oop.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/oop.obj
+
+# target to build an object file
+mainalternatives/cppfiles/oop.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj
+.PHONY : mainalternatives/cppfiles/oop.cpp.obj
+
+mainalternatives/cppfiles/oop.i: mainalternatives/cppfiles/oop.cpp.i
+
+.PHONY : mainalternatives/cppfiles/oop.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/oop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.i
+.PHONY : mainalternatives/cppfiles/oop.cpp.i
+
+mainalternatives/cppfiles/oop.s: mainalternatives/cppfiles/oop.cpp.s
+
+.PHONY : mainalternatives/cppfiles/oop.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/oop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.s
+.PHONY : mainalternatives/cppfiles/oop.cpp.s
+
+mainalternatives/cppfiles/oop/Animal.obj: mainalternatives/cppfiles/oop/Animal.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/oop/Animal.obj
+
+# target to build an object file
+mainalternatives/cppfiles/oop/Animal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj
+.PHONY : mainalternatives/cppfiles/oop/Animal.cpp.obj
+
+mainalternatives/cppfiles/oop/Animal.i: mainalternatives/cppfiles/oop/Animal.cpp.i
+
+.PHONY : mainalternatives/cppfiles/oop/Animal.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/oop/Animal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.i
+.PHONY : mainalternatives/cppfiles/oop/Animal.cpp.i
+
+mainalternatives/cppfiles/oop/Animal.s: mainalternatives/cppfiles/oop/Animal.cpp.s
+
+.PHONY : mainalternatives/cppfiles/oop/Animal.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/oop/Animal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.s
+.PHONY : mainalternatives/cppfiles/oop/Animal.cpp.s
+
+mainalternatives/cppfiles/oop/Lion.obj: mainalternatives/cppfiles/oop/Lion.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/oop/Lion.obj
+
+# target to build an object file
+mainalternatives/cppfiles/oop/Lion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj
+.PHONY : mainalternatives/cppfiles/oop/Lion.cpp.obj
+
+mainalternatives/cppfiles/oop/Lion.i: mainalternatives/cppfiles/oop/Lion.cpp.i
+
+.PHONY : mainalternatives/cppfiles/oop/Lion.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/oop/Lion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.i
+.PHONY : mainalternatives/cppfiles/oop/Lion.cpp.i
+
+mainalternatives/cppfiles/oop/Lion.s: mainalternatives/cppfiles/oop/Lion.cpp.s
+
+.PHONY : mainalternatives/cppfiles/oop/Lion.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/oop/Lion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.s
+.PHONY : mainalternatives/cppfiles/oop/Lion.cpp.s
+
+mainalternatives/cppfiles/oop/Student.obj: mainalternatives/cppfiles/oop/Student.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/oop/Student.obj
+
+# target to build an object file
+mainalternatives/cppfiles/oop/Student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj
+.PHONY : mainalternatives/cppfiles/oop/Student.cpp.obj
+
+mainalternatives/cppfiles/oop/Student.i: mainalternatives/cppfiles/oop/Student.cpp.i
+
+.PHONY : mainalternatives/cppfiles/oop/Student.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/oop/Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.i
+.PHONY : mainalternatives/cppfiles/oop/Student.cpp.i
+
+mainalternatives/cppfiles/oop/Student.s: mainalternatives/cppfiles/oop/Student.cpp.s
+
+.PHONY : mainalternatives/cppfiles/oop/Student.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/oop/Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.s
+.PHONY : mainalternatives/cppfiles/oop/Student.cpp.s
+
 mainalternatives/cppfiles/pointers.obj: mainalternatives/cppfiles/pointers.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/pointers.obj
@@ -355,6 +463,18 @@ help:
 	@echo ... mainalternatives/cppfiles/mymain.obj
 	@echo ... mainalternatives/cppfiles/mymain.i
 	@echo ... mainalternatives/cppfiles/mymain.s
+	@echo ... mainalternatives/cppfiles/oop.obj
+	@echo ... mainalternatives/cppfiles/oop.i
+	@echo ... mainalternatives/cppfiles/oop.s
+	@echo ... mainalternatives/cppfiles/oop/Animal.obj
+	@echo ... mainalternatives/cppfiles/oop/Animal.i
+	@echo ... mainalternatives/cppfiles/oop/Animal.s
+	@echo ... mainalternatives/cppfiles/oop/Lion.obj
+	@echo ... mainalternatives/cppfiles/oop/Lion.i
+	@echo ... mainalternatives/cppfiles/oop/Lion.s
+	@echo ... mainalternatives/cppfiles/oop/Student.obj
+	@echo ... mainalternatives/cppfiles/oop/Student.i
+	@echo ... mainalternatives/cppfiles/oop/Student.s
 	@echo ... mainalternatives/cppfiles/pointers.obj
 	@echo ... mainalternatives/cppfiles/pointers.i
 	@echo ... mainalternatives/cppfiles/pointers.s
