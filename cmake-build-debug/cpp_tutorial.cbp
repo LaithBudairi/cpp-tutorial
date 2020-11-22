@@ -95,6 +95,9 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/memory.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/mymain.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
@@ -120,6 +123,9 @@
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/functions.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/memory.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/mymain.h">

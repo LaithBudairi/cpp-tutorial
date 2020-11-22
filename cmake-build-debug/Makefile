@@ -250,6 +250,33 @@ mainalternatives/cppfiles/functions.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.s
 .PHONY : mainalternatives/cppfiles/functions.cpp.s
 
+mainalternatives/cppfiles/memory.obj: mainalternatives/cppfiles/memory.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/memory.obj
+
+# target to build an object file
+mainalternatives/cppfiles/memory.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj
+.PHONY : mainalternatives/cppfiles/memory.cpp.obj
+
+mainalternatives/cppfiles/memory.i: mainalternatives/cppfiles/memory.cpp.i
+
+.PHONY : mainalternatives/cppfiles/memory.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/memory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.i
+.PHONY : mainalternatives/cppfiles/memory.cpp.i
+
+mainalternatives/cppfiles/memory.s: mainalternatives/cppfiles/memory.cpp.s
+
+.PHONY : mainalternatives/cppfiles/memory.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/memory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.s
+.PHONY : mainalternatives/cppfiles/memory.cpp.s
+
 mainalternatives/cppfiles/mymain.obj: mainalternatives/cppfiles/mymain.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/mymain.obj
@@ -460,6 +487,9 @@ help:
 	@echo ... mainalternatives/cppfiles/functions.obj
 	@echo ... mainalternatives/cppfiles/functions.i
 	@echo ... mainalternatives/cppfiles/functions.s
+	@echo ... mainalternatives/cppfiles/memory.obj
+	@echo ... mainalternatives/cppfiles/memory.i
+	@echo ... mainalternatives/cppfiles/memory.s
 	@echo ... mainalternatives/cppfiles/mymain.obj
 	@echo ... mainalternatives/cppfiles/mymain.i
 	@echo ... mainalternatives/cppfiles/mymain.s

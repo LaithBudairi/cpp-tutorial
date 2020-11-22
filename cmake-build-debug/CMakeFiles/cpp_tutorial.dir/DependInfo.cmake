@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/main.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/memory.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/mymain.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Animal.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj"

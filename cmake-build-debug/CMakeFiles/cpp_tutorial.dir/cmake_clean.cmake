@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/main.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Animal.cpp.obj"

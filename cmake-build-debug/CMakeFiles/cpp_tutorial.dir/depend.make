@@ -7,6 +7,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../add/test.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/arrays.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/functions.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/memory.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/mymain.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/oop.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
@@ -15,6 +16,9 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/variables.
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj: ../mainalternatives/cppfiles/arrays.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj: ../mainalternatives/cppfiles/functions.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj: ../mainalternatives/cppfiles/memory.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj: ../mainalternatives/headers/memory.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../add/test.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../mainalternatives/cppfiles/mymain.cpp
