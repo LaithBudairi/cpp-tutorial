@@ -92,6 +92,9 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/filestream.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
@@ -116,10 +119,19 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/arrays.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/filestream.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/functions.h">
@@ -144,6 +156,12 @@
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/pointers.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/templates.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/trycatch.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/variables.h">

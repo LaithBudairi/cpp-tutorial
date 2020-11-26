@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/add/test.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/main.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/filestream.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/memory.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/mymain.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj"
@@ -15,6 +16,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Lion.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/oop/Student.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

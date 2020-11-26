@@ -6,14 +6,19 @@ CMakeFiles/cpp_tutorial.dir/add/test.cpp.obj: ../add/test.cpp
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../add/test.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/arrays.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/filestream.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/functions.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/memory.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/mymain.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/oop.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/templates.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/trycatch.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/variables.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj: ../mainalternatives/cppfiles/arrays.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj: ../mainalternatives/cppfiles/filestream.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj: ../mainalternatives/cppfiles/functions.cpp
 
@@ -39,6 +44,10 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../ma
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../mainalternatives/headers/oop/Student.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj: ../mainalternatives/cppfiles/pointers.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj: ../mainalternatives/cppfiles/templates.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj: ../mainalternatives/cppfiles/trycatch.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj: ../mainalternatives/cppfiles/variables.cpp
 

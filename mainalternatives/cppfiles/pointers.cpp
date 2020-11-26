@@ -2,11 +2,32 @@
 // Created by LaithB on 11/11/2020.
 //
 #include <iostream>
+#include <memory>
 using namespace std;
 
 void changeValue(int*);
 void changeValue(int &);
 void funcPtr();
+
+
+class Entity {
+
+    char c;
+public:
+    Entity(char c) {
+        this-> c = c;
+        cout << "Created Entity " << c << endl;
+    }
+
+    ~Entity() {
+
+        cout << "Destroyed Entity " << c << endl;
+    }
+
+    void print() {
+
+    }
+};
 
 void pointers() {
 
@@ -90,6 +111,24 @@ void pointers() {
     pFunc = funcPtr;
 
     pFunc();
+
+    // Constant Pointer
+    int value = 5;
+    const int *ptr1 = &value; // ptr1 points to a "const int", so this is a pointer to a const value.
+    int *const ptr2 = &value; // ptr2 points to an "int", so this is a const pointer to a non-const value.
+    const int *const ptr3 = &value; // ptr3 points to a "const int", so this is a const pointer to a const value.
+
+    // Smart Pointer
+    {
+        shared_ptr<Entity> e0;
+        {
+            unique_ptr<Entity> entity = make_unique<Entity>('d');
+            entity->print();
+
+            shared_ptr<Entity> e1 = make_shared<Entity>('e');
+            e0 = e1;
+        }
+    }
 
 }
 

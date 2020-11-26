@@ -12,7 +12,10 @@
 #include "mainalternatives/headers/functions.h"
 #include "mainalternatives/headers/oop.h"
 #include "mainalternatives/headers/memory.h"
-
+#include "mainalternatives/headers/filestream.h"
+#include "mainalternatives/headers/trycatch.h"
+#include "mainalternatives/headers/templates.h"
+#include "bits/stdc++.h"
 
 using namespace std;
 
@@ -26,15 +29,24 @@ int main() {
     //arrays();
 
     // pointers practice
-    //pointers();
+    pointers();
 
     // functions practice
     //functions();
 
     // oop practice
-    oop();
+    //oop();
     cout << '\n';
 
     // memory management
-    memoryManagement();
+    //memoryManagement();
+
+    // file streams
+    //fileStreams();
+
+    // exception handling
+    //exceptions();
+
+    // templates
+    //templates();
 }

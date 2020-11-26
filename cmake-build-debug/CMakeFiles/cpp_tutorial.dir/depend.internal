@@ -7,14 +7,19 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/add/test.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/main.cpp
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/arrays.h
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/filestream.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/functions.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/memory.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/mymain.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/oop.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/pointers.h
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/templates.h
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/trycatch.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/variables.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/arrays.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/filestream.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/functions.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/functions.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj
@@ -40,5 +45,9 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/oop/Student.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp

@@ -223,6 +223,33 @@ mainalternatives/cppfiles/arrays.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.s
 .PHONY : mainalternatives/cppfiles/arrays.cpp.s
 
+mainalternatives/cppfiles/filestream.obj: mainalternatives/cppfiles/filestream.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/filestream.obj
+
+# target to build an object file
+mainalternatives/cppfiles/filestream.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj
+.PHONY : mainalternatives/cppfiles/filestream.cpp.obj
+
+mainalternatives/cppfiles/filestream.i: mainalternatives/cppfiles/filestream.cpp.i
+
+.PHONY : mainalternatives/cppfiles/filestream.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/filestream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.i
+.PHONY : mainalternatives/cppfiles/filestream.cpp.i
+
+mainalternatives/cppfiles/filestream.s: mainalternatives/cppfiles/filestream.cpp.s
+
+.PHONY : mainalternatives/cppfiles/filestream.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/filestream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.s
+.PHONY : mainalternatives/cppfiles/filestream.cpp.s
+
 mainalternatives/cppfiles/functions.obj: mainalternatives/cppfiles/functions.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/functions.obj
@@ -439,6 +466,60 @@ mainalternatives/cppfiles/pointers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.s
 .PHONY : mainalternatives/cppfiles/pointers.cpp.s
 
+mainalternatives/cppfiles/templates.obj: mainalternatives/cppfiles/templates.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/templates.obj
+
+# target to build an object file
+mainalternatives/cppfiles/templates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj
+.PHONY : mainalternatives/cppfiles/templates.cpp.obj
+
+mainalternatives/cppfiles/templates.i: mainalternatives/cppfiles/templates.cpp.i
+
+.PHONY : mainalternatives/cppfiles/templates.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/templates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.i
+.PHONY : mainalternatives/cppfiles/templates.cpp.i
+
+mainalternatives/cppfiles/templates.s: mainalternatives/cppfiles/templates.cpp.s
+
+.PHONY : mainalternatives/cppfiles/templates.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/templates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.s
+.PHONY : mainalternatives/cppfiles/templates.cpp.s
+
+mainalternatives/cppfiles/trycatch.obj: mainalternatives/cppfiles/trycatch.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/trycatch.obj
+
+# target to build an object file
+mainalternatives/cppfiles/trycatch.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj
+.PHONY : mainalternatives/cppfiles/trycatch.cpp.obj
+
+mainalternatives/cppfiles/trycatch.i: mainalternatives/cppfiles/trycatch.cpp.i
+
+.PHONY : mainalternatives/cppfiles/trycatch.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/trycatch.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.i
+.PHONY : mainalternatives/cppfiles/trycatch.cpp.i
+
+mainalternatives/cppfiles/trycatch.s: mainalternatives/cppfiles/trycatch.cpp.s
+
+.PHONY : mainalternatives/cppfiles/trycatch.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/trycatch.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.s
+.PHONY : mainalternatives/cppfiles/trycatch.cpp.s
+
 mainalternatives/cppfiles/variables.obj: mainalternatives/cppfiles/variables.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/variables.obj
@@ -484,6 +565,9 @@ help:
 	@echo ... mainalternatives/cppfiles/arrays.obj
 	@echo ... mainalternatives/cppfiles/arrays.i
 	@echo ... mainalternatives/cppfiles/arrays.s
+	@echo ... mainalternatives/cppfiles/filestream.obj
+	@echo ... mainalternatives/cppfiles/filestream.i
+	@echo ... mainalternatives/cppfiles/filestream.s
 	@echo ... mainalternatives/cppfiles/functions.obj
 	@echo ... mainalternatives/cppfiles/functions.i
 	@echo ... mainalternatives/cppfiles/functions.s
@@ -508,6 +592,12 @@ help:
 	@echo ... mainalternatives/cppfiles/pointers.obj
 	@echo ... mainalternatives/cppfiles/pointers.i
 	@echo ... mainalternatives/cppfiles/pointers.s
+	@echo ... mainalternatives/cppfiles/templates.obj
+	@echo ... mainalternatives/cppfiles/templates.i
+	@echo ... mainalternatives/cppfiles/templates.s
+	@echo ... mainalternatives/cppfiles/trycatch.obj
+	@echo ... mainalternatives/cppfiles/trycatch.i
+	@echo ... mainalternatives/cppfiles/trycatch.s
 	@echo ... mainalternatives/cppfiles/variables.obj
 	@echo ... mainalternatives/cppfiles/variables.i
 	@echo ... mainalternatives/cppfiles/variables.s

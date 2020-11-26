@@ -36,4 +36,3 @@ int* dummyFunc2() {
 
     return x;
 }
-

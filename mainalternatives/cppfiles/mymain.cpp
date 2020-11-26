@@ -129,4 +129,3 @@ void myMain() {
 void myFunction() {
     cout << "my function\n";
 }
-

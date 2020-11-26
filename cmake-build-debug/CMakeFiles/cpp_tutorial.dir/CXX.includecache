@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/memory.cpp
-../headers/memory.h
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/memory.h
+C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp
 iostream
 -
-
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/memory.h
+memory
+-
 

@@ -232,6 +232,45 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\memory.cpp -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\memory.cpp.s
 
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj: CMakeFiles/cpp_tutorial.dir/flags.make
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj: ../mainalternatives/cppfiles/filestream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\filestream.cpp.obj -c C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\filestream.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\filestream.cpp > CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\filestream.cpp.i
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\filestream.cpp -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\filestream.cpp.s
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj: CMakeFiles/cpp_tutorial.dir/flags.make
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj: ../mainalternatives/cppfiles/trycatch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\trycatch.cpp.obj -c C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\trycatch.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\trycatch.cpp > CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\trycatch.cpp.i
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\trycatch.cpp -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\trycatch.cpp.s
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj: CMakeFiles/cpp_tutorial.dir/flags.make
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj: ../mainalternatives/cppfiles/templates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\templates.cpp.obj -c C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\templates.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\templates.cpp > CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\templates.cpp.i
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LaithB\CLionProjects\cpp-tutorial\mainalternatives\cppfiles\templates.cpp -o CMakeFiles\cpp_tutorial.dir\mainalternatives\cppfiles\templates.cpp.s
+
 # Object files for target cpp_tutorial
 cpp_tutorial_OBJECTS = \
 "CMakeFiles/cpp_tutorial.dir/main.cpp.obj" \
@@ -245,7 +284,10 @@ cpp_tutorial_OBJECTS = \
 "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj" \
 "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj" \
 "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj" \
-"CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj"
+"CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj" \
+"CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj" \
+"CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj" \
+"CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj"
 
 # External object files for target cpp_tutorial
 cpp_tutorial_EXTERNAL_OBJECTS =
@@ -262,11 +304,14 @@ cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj
+cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/filestream.cpp.obj
+cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj
+cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/build.make
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/linklibs.rsp
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/objects1.rsp
 cpp_tutorial.exe: CMakeFiles/cpp_tutorial.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable cpp_tutorial.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\LaithB\CLionProjects\cpp-tutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable cpp_tutorial.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp_tutorial.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
