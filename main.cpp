@@ -16,8 +16,14 @@
 #include "mainalternatives/headers/trycatch.h"
 #include "mainalternatives/headers/templates.h"
 #include "bits/stdc++.h"
-
+#include "mainalternatives/headers/stl/vectors.h"
+#include "mainalternatives/headers/namespaces.h"
 using namespace std;
+
+union foo {
+    int x;
+    short y;
+};
 
 int main() {
     //myMain();
@@ -29,7 +35,7 @@ int main() {
     //arrays();
 
     // pointers practice
-    pointers();
+    //pointers();
 
     // functions practice
     //functions();
@@ -49,4 +55,11 @@ int main() {
 
     // templates
     //templates();
+
+    // vectors
+    //vectors();
+
+    // namespaces
+    namespaces();
+
 }

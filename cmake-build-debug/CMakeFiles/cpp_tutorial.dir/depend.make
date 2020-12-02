@@ -10,8 +10,10 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/filestream
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/functions.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/memory.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/mymain.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/namespaces.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/oop.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/stl/vectors.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/templates.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/trycatch.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/variables.h
@@ -27,6 +29,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/memory.cpp.obj: ../mainalt
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../add/test.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.obj: ../mainalternatives/cppfiles/mymain.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/namespaces.cpp.obj: ../mainalternatives/cppfiles/namespaces.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/cppfiles/oop.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop.cpp.obj: ../mainalternatives/headers/oop/Animal.h
@@ -44,6 +48,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../ma
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../mainalternatives/headers/oop/Student.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj: ../mainalternatives/cppfiles/pointers.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj: ../mainalternatives/cppfiles/stl/vectors.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj: ../mainalternatives/cppfiles/templates.cpp
 

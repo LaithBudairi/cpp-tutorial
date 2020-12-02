@@ -331,6 +331,33 @@ mainalternatives/cppfiles/mymain.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/mymain.cpp.s
 .PHONY : mainalternatives/cppfiles/mymain.cpp.s
 
+mainalternatives/cppfiles/namespaces.obj: mainalternatives/cppfiles/namespaces.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/namespaces.obj
+
+# target to build an object file
+mainalternatives/cppfiles/namespaces.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/namespaces.cpp.obj
+.PHONY : mainalternatives/cppfiles/namespaces.cpp.obj
+
+mainalternatives/cppfiles/namespaces.i: mainalternatives/cppfiles/namespaces.cpp.i
+
+.PHONY : mainalternatives/cppfiles/namespaces.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/namespaces.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/namespaces.cpp.i
+.PHONY : mainalternatives/cppfiles/namespaces.cpp.i
+
+mainalternatives/cppfiles/namespaces.s: mainalternatives/cppfiles/namespaces.cpp.s
+
+.PHONY : mainalternatives/cppfiles/namespaces.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/namespaces.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/namespaces.cpp.s
+.PHONY : mainalternatives/cppfiles/namespaces.cpp.s
+
 mainalternatives/cppfiles/oop.obj: mainalternatives/cppfiles/oop.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/oop.obj
@@ -466,6 +493,33 @@ mainalternatives/cppfiles/pointers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.s
 .PHONY : mainalternatives/cppfiles/pointers.cpp.s
 
+mainalternatives/cppfiles/stl/vectors.obj: mainalternatives/cppfiles/stl/vectors.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/stl/vectors.obj
+
+# target to build an object file
+mainalternatives/cppfiles/stl/vectors.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj
+.PHONY : mainalternatives/cppfiles/stl/vectors.cpp.obj
+
+mainalternatives/cppfiles/stl/vectors.i: mainalternatives/cppfiles/stl/vectors.cpp.i
+
+.PHONY : mainalternatives/cppfiles/stl/vectors.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/stl/vectors.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.i
+.PHONY : mainalternatives/cppfiles/stl/vectors.cpp.i
+
+mainalternatives/cppfiles/stl/vectors.s: mainalternatives/cppfiles/stl/vectors.cpp.s
+
+.PHONY : mainalternatives/cppfiles/stl/vectors.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/stl/vectors.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.s
+.PHONY : mainalternatives/cppfiles/stl/vectors.cpp.s
+
 mainalternatives/cppfiles/templates.obj: mainalternatives/cppfiles/templates.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/templates.obj
@@ -577,6 +631,9 @@ help:
 	@echo ... mainalternatives/cppfiles/mymain.obj
 	@echo ... mainalternatives/cppfiles/mymain.i
 	@echo ... mainalternatives/cppfiles/mymain.s
+	@echo ... mainalternatives/cppfiles/namespaces.obj
+	@echo ... mainalternatives/cppfiles/namespaces.i
+	@echo ... mainalternatives/cppfiles/namespaces.s
 	@echo ... mainalternatives/cppfiles/oop.obj
 	@echo ... mainalternatives/cppfiles/oop.i
 	@echo ... mainalternatives/cppfiles/oop.s
@@ -592,6 +649,9 @@ help:
 	@echo ... mainalternatives/cppfiles/pointers.obj
 	@echo ... mainalternatives/cppfiles/pointers.i
 	@echo ... mainalternatives/cppfiles/pointers.s
+	@echo ... mainalternatives/cppfiles/stl/vectors.obj
+	@echo ... mainalternatives/cppfiles/stl/vectors.i
+	@echo ... mainalternatives/cppfiles/stl/vectors.s
 	@echo ... mainalternatives/cppfiles/templates.obj
 	@echo ... mainalternatives/cppfiles/templates.i
 	@echo ... mainalternatives/cppfiles/templates.s
