@@ -13,6 +13,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/mymain.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/namespaces.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/oop.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/preprocessor.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/stl/vectors.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/templates.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/trycatch.h
@@ -48,6 +49,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../ma
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj: ../mainalternatives/headers/oop/Student.h
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj: ../mainalternatives/cppfiles/pointers.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj: ../mainalternatives/cppfiles/preprocessor.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj: ../mainalternatives/cppfiles/stl/vectors.cpp
 

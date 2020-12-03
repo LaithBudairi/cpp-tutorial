@@ -3,13 +3,7 @@
 //
 #include "../headers/memory.h"
 #include <iostream>
-#define cube(b) b*b*b
-#define MACRO(num, str) ({\
-            printf("%d", num);\
-            printf("is "); \
-            printf("%s number", str);\
-            printf("\n");\
-           })
+
 
 using namespace std;
 
@@ -56,14 +50,6 @@ void memoryManagement() {
     cout << endl;
 
 
-    // Macros
-    int num;
 
-    printf("Enter a number: ");
-    scanf("%d", &num);
 
-    if (num & 1)
-        MACRO(num, "Odd");
-    else
-        MACRO(num, "Even");
 }

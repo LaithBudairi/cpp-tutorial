@@ -1,7 +1,6 @@
 #include <iostream>
 #include <conio.h>
 #include <string>
-#include <cmath>
 #include <vector>
 #include <algorithm>
 #include "add/test.h"
@@ -15,10 +14,15 @@
 #include "mainalternatives/headers/filestream.h"
 #include "mainalternatives/headers/trycatch.h"
 #include "mainalternatives/headers/templates.h"
-#include "bits/stdc++.h"
 #include "mainalternatives/headers/stl/vectors.h"
 #include "mainalternatives/headers/namespaces.h"
-using namespace std;
+#include "mainalternatives/headers/preprocessor.h"
+
+void* operator new(size_t size) {
+
+    std::cout << "Allocation size: " << size << '\n';
+    return malloc(size);
+}
 
 union foo {
     int x;
@@ -42,7 +46,7 @@ int main() {
 
     // oop practice
     //oop();
-    cout << '\n';
+    std::cout << '\n';
 
     // memory management
     //memoryManagement();
@@ -60,6 +64,9 @@ int main() {
     //vectors();
 
     // namespaces
-    namespaces();
+    //namespaces();
+
+    // preprocessors
+    preprocessor();
 
 }

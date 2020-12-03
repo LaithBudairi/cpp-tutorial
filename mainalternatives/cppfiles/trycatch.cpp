@@ -2,6 +2,7 @@
 // Created by LaithB on 11/26/2020.
 //
 #include <iostream>
+#include <sstream>
 using namespace std;
 
 float division(int a, int b);

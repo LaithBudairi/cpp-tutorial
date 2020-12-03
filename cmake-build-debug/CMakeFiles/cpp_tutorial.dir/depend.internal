@@ -14,6 +14,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/namespaces.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/oop.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/pointers.h
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/preprocessor.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/stl/vectors.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/templates.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/trycatch.h
@@ -49,6 +50,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/oop/Student.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/preprocessor.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/stl/vectors.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj

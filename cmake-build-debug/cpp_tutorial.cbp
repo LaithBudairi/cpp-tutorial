@@ -122,6 +122,9 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/pointers.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/preprocessor.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/stl/vectors.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
@@ -165,6 +168,9 @@
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/pointers.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/preprocessor.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/stl/vectors.h">

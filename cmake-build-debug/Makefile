@@ -493,6 +493,33 @@ mainalternatives/cppfiles/pointers.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.s
 .PHONY : mainalternatives/cppfiles/pointers.cpp.s
 
+mainalternatives/cppfiles/preprocessor.obj: mainalternatives/cppfiles/preprocessor.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/preprocessor.obj
+
+# target to build an object file
+mainalternatives/cppfiles/preprocessor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj
+.PHONY : mainalternatives/cppfiles/preprocessor.cpp.obj
+
+mainalternatives/cppfiles/preprocessor.i: mainalternatives/cppfiles/preprocessor.cpp.i
+
+.PHONY : mainalternatives/cppfiles/preprocessor.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/preprocessor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.i
+.PHONY : mainalternatives/cppfiles/preprocessor.cpp.i
+
+mainalternatives/cppfiles/preprocessor.s: mainalternatives/cppfiles/preprocessor.cpp.s
+
+.PHONY : mainalternatives/cppfiles/preprocessor.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/preprocessor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.s
+.PHONY : mainalternatives/cppfiles/preprocessor.cpp.s
+
 mainalternatives/cppfiles/stl/vectors.obj: mainalternatives/cppfiles/stl/vectors.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/stl/vectors.obj
@@ -649,6 +676,9 @@ help:
 	@echo ... mainalternatives/cppfiles/pointers.obj
 	@echo ... mainalternatives/cppfiles/pointers.i
 	@echo ... mainalternatives/cppfiles/pointers.s
+	@echo ... mainalternatives/cppfiles/preprocessor.obj
+	@echo ... mainalternatives/cppfiles/preprocessor.i
+	@echo ... mainalternatives/cppfiles/preprocessor.s
 	@echo ... mainalternatives/cppfiles/stl/vectors.obj
 	@echo ... mainalternatives/cppfiles/stl/vectors.i
 	@echo ... mainalternatives/cppfiles/stl/vectors.s

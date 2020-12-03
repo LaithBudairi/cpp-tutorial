@@ -5,7 +5,9 @@
 #include "../headers/oop/Student.h"
 #include "../headers/oop/Animal.h"
 #include "../headers/oop/Lion.h"
+#include <string>
 using namespace std;
+
 void oop(){
     // class student
     Student s = Student("Laith");
@@ -30,10 +32,12 @@ void oop(){
 
     cout << "\nUsing polymorphism for method binding to call the right eat function for lion\n";
 
-    Animal* animalPoly = new Lion();
+    Animal* animalPoly =new Lion();
     animalPoly->eat();
     cout << "Lion classification: " << animalPoly->classification << '\n';
 
+    delete animalPoly;
     cout << '\n';
+
 }
 

@@ -12,6 +12,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Lion.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/oop/Student.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/pointers.cpp.obj"
+  "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj"
   "CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj"

@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/namespaces.cpp
+C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/preprocessor.cpp
+cstdio
+-
 iostream
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/iostream
+-
+string
+-
 
