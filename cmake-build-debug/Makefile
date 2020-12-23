@@ -574,6 +574,33 @@ mainalternatives/cppfiles/templates.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.s
 .PHONY : mainalternatives/cppfiles/templates.cpp.s
 
+mainalternatives/cppfiles/threading.obj: mainalternatives/cppfiles/threading.cpp.obj
+
+.PHONY : mainalternatives/cppfiles/threading.obj
+
+# target to build an object file
+mainalternatives/cppfiles/threading.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.obj
+.PHONY : mainalternatives/cppfiles/threading.cpp.obj
+
+mainalternatives/cppfiles/threading.i: mainalternatives/cppfiles/threading.cpp.i
+
+.PHONY : mainalternatives/cppfiles/threading.i
+
+# target to preprocess a source file
+mainalternatives/cppfiles/threading.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.i
+.PHONY : mainalternatives/cppfiles/threading.cpp.i
+
+mainalternatives/cppfiles/threading.s: mainalternatives/cppfiles/threading.cpp.s
+
+.PHONY : mainalternatives/cppfiles/threading.s
+
+# target to generate assembly for a file
+mainalternatives/cppfiles/threading.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_tutorial.dir\build.make CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.s
+.PHONY : mainalternatives/cppfiles/threading.cpp.s
+
 mainalternatives/cppfiles/trycatch.obj: mainalternatives/cppfiles/trycatch.cpp.obj
 
 .PHONY : mainalternatives/cppfiles/trycatch.obj
@@ -685,6 +712,9 @@ help:
 	@echo ... mainalternatives/cppfiles/templates.obj
 	@echo ... mainalternatives/cppfiles/templates.i
 	@echo ... mainalternatives/cppfiles/templates.s
+	@echo ... mainalternatives/cppfiles/threading.obj
+	@echo ... mainalternatives/cppfiles/threading.i
+	@echo ... mainalternatives/cppfiles/threading.s
 	@echo ... mainalternatives/cppfiles/trycatch.obj
 	@echo ... mainalternatives/cppfiles/trycatch.i
 	@echo ... mainalternatives/cppfiles/trycatch.s

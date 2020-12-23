@@ -6,11 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/preprocessor.cpp
-cstdio
--
+C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/threading.cpp
 iostream
 -
-string
+thread
+-
+chrono
+-
+algorithm
+-
+vector
+-
+time.h
+-
+mutex
+-
+condition_variable
 -
 

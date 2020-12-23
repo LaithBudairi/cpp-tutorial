@@ -17,6 +17,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/preprocessor.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/stl/vectors.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/templates.h
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/threading.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/trycatch.h
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/variables.h
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/arrays.cpp.obj
@@ -56,6 +57,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/stl/vectors.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.obj
+ C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/threading.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj
  C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj

@@ -131,6 +131,9 @@
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/threading.cpp">
+			<Option target="cpp_tutorial"/>
+		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp">
 			<Option target="cpp_tutorial"/>
 		</Unit>
@@ -177,6 +180,9 @@
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/templates.h">
+			<Option target="cpp_tutorial"/>
+		</Unit>
+		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/threading.h">
 			<Option target="cpp_tutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/headers/trycatch.h">

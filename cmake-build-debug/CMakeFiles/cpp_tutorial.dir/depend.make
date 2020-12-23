@@ -16,6 +16,7 @@ CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/pointers.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/preprocessor.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/stl/vectors.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/templates.h
+CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/threading.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/trycatch.h
 CMakeFiles/cpp_tutorial.dir/main.cpp.obj: ../mainalternatives/headers/variables.h
 
@@ -55,6 +56,8 @@ CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj: ../m
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj: ../mainalternatives/cppfiles/stl/vectors.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj: ../mainalternatives/cppfiles/templates.cpp
+
+CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.obj: ../mainalternatives/cppfiles/threading.cpp
 
 CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj: ../mainalternatives/cppfiles/trycatch.cpp
 

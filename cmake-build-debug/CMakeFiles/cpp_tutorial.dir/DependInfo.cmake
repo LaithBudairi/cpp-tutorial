@@ -20,6 +20,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/preprocessor.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/preprocessor.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/stl/vectors.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/stl/vectors.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/templates.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/templates.cpp.obj"
+  "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/threading.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/threading.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/trycatch.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/trycatch.cpp.obj"
   "C:/Users/LaithB/CLionProjects/cpp-tutorial/mainalternatives/cppfiles/variables.cpp" "C:/Users/LaithB/CLionProjects/cpp-tutorial/cmake-build-debug/CMakeFiles/cpp_tutorial.dir/mainalternatives/cppfiles/variables.cpp.obj"
   )

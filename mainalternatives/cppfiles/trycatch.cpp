@@ -8,6 +8,7 @@ using namespace std;
 float division(int a, int b);
 
 void exceptions() {
+    stringstream ss;
     try {
         float x =  division(5, 0);
         cout << x << endl;

@@ -17,12 +17,8 @@
 #include "mainalternatives/headers/stl/vectors.h"
 #include "mainalternatives/headers/namespaces.h"
 #include "mainalternatives/headers/preprocessor.h"
-
-void* operator new(size_t size) {
-
-    std::cout << "Allocation size: " << size << '\n';
-    return malloc(size);
-}
+#include "mainalternatives/headers/threading.h"
+#include <time.h>
 
 union foo {
     int x;
@@ -67,6 +63,15 @@ int main() {
     //namespaces();
 
     // preprocessors
-    preprocessor();
+    //preprocessor();
+
+    //threads
+    threading();
+
+//    // declaring argument of time()
+//    time_t my_time = time(NULL);
+//
+//    // ctime() used to give the present time
+//    printf("%s", ctime(&my_time));
 
 }
